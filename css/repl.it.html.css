@@ -1,0 +1,13 @@
+*{
+    padding: 10%;
+}
+
+.challenge2 h1{
+    color: #9b59b6; display: inline-block; 
+}
+.challenge2 p{
+    font-size: 16px; font-style: italic; 
+}
+.sub-header p{
+    color: #2980b9;
+}
